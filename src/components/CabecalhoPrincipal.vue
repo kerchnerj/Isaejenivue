@@ -2,6 +2,6 @@
 export default {};
 </script>
 <template>
-  <aside class="block"></aside>
+  <header id="header">Título do site</header>
 </template>
 <style></style>

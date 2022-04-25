@@ -2,6 +2,6 @@
 export default {};
 </script>
 <template>
-  <aside class="block"></aside>
+  <footer id="footer"></footer>
 </template>
 <style></style>
