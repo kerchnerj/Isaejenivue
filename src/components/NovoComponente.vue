@@ -2,6 +2,6 @@
 export default {};
 </script>
 <template>
-  <aside class="block"></aside>
+  <main class="block"></main>
 </template>
 <style></style>
